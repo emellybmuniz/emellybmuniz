@@ -1,4 +1,4 @@
-# Hi World, eu sou a Emelly Beatriz 👋
+# Hi World, eu sou a Emelly Beatriz! 👋
 
 
 ## 🌐 Socials:
