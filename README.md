@@ -1,5 +1,5 @@
 # 🚀 Hi World!
-## I'm Emelly Beatriz — FrontEnd Developer & Tech Enthusiast 👩‍💻✨
+## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
 > Turning ideas into reality, one line of code at a time. Want to build something incredible together? 
 
