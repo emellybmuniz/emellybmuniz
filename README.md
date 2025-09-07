@@ -30,15 +30,23 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emellybmuniz&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=emellybmuniz&theme=midnight-purple&hide_border=false)
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=emellybmuniz&theme=omni&hide_border=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emellybmuniz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=emellybmuniz&limit=5&theme=omni&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emellybmuniz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emellybmuniz&icon=0&color=1)](https://visitcount.itsvg.in)
