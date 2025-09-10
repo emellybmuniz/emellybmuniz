@@ -1,8 +1,8 @@
-# 🚀 Hi World!
+# 🚀 Hello World! 
+
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-> Turning ideas into reality, one line of code at a time. Want to build something incredible together? 
-
+> Evolving ideas into solutions, one line of code at a time.  Want to collaborate on something awesome?
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010712287093) 
