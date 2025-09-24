@@ -92,7 +92,7 @@ Comprehensive guide on leveraging AI for English language mastery.
 
 ## ⏱️ Coding Time
 
-[![Emelly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emellybmuniz&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Emelly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emellybmuniz&theme=omni&hide_border=true)](https://wakatime.com/@emellybmuniz)
 
 ## 🧠 Most Used Languages
 
