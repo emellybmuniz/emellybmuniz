@@ -90,10 +90,6 @@ Comprehensive guide on leveraging AI for English language mastery.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emellybmuniz&theme=omni&hide_border=true)
 
-## ⏱️ Coding Time
-
-[![Emelly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emellybmuniz&theme=omni&hide_border=true)](https://wakatime.com/@emellybmuniz)
-
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
