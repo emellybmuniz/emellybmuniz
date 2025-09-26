@@ -73,11 +73,11 @@ Core technologies I have solid experience with.
 
 ## ✍️ Recent Activity
 
-🎓 **[ Lições da Minha Jornada como Embaixadora Universitária DIO](https://www.linkedin.com/posts/emellybmuniz_li%C3%A7%C3%B5es-que-aprendi-na-minha-jornada-como-activity-7377343592476020736-4lwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
+🎓 **[Lições da Minha Jornada como Embaixadora Universitária DIO](https://www.linkedin.com/posts/emellybmuniz_li%C3%A7%C3%B5es-que-aprendi-na-minha-jornada-como-activity-7377343592476020736-4lwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
 *LinkedIn Post* • Professional Network  
 Sharing insights and lessons learned from the DIO Campus Expert program experience.
 
-🔥 **[Learn English with AI: Strategies and Tools to Accelerate Your Fluency](https://medium.com/@emellybmuniz/aprenda-inglês-com-ia-estratégias-e-ferramentas-para-acelerar-sua-fluência-7b6e5a251d3f)**  
+🔥 **[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-inglês-com-ia-estratégias-e-ferramentas-para-acelerar-sua-fluência-7b6e5a251d3f)**  
 *Medium Article* • Published on Medium  
 Exploring how AI can revolutionize language learning and accelerate English fluency.
 
