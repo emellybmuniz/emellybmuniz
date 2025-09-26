@@ -107,9 +107,8 @@ Comprehensive guide on leveraging AI for English language mastery.
 > **"Evolving ideas into digital solutions, one line of code at a time."**
 
 <div style="margin: 20px 40px;">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Hits+Counter&icon=github&color=%23031633&message=&style=flat&tz=localtime" alt="Badge" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitors&icon=github&color=%23031633&message=&style=flat&tz=localtime" alt="Badge" />
 </div>
-
 
 
 
