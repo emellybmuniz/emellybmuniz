@@ -1,7 +1,7 @@
 # 🚀Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-Software Developer in training, transforming ideas into functional solutions, one line of code at a time. Driven by the challenge of creating attractive interfaces and improving user experience through the union of development and design.
+Software Developer in training, passionate about building intuitive and accessible user interfaces. I transform complex ideas into elegant digital experiences, one line of code at a time.
 
 ## 💻 Tech Stack
 
@@ -10,13 +10,15 @@ Software Developer in training, transforming ideas into functional solutions, on
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7e278f?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## 📚 Currently Exploring
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +33,7 @@ Software Developer in training, transforming ideas into functional solutions, on
 - **Front-End Developer** - Personal and Open Source Projects
 - **EF SET English Certificate** 55/100 (B2 Upper Intermediate)
 
+
 ## 🎖️ What Motivates Me
 
 I'm seeking **front-end or back-end internship opportunities** where I can apply my skills and continue learning in the real day-to-day of a programmer. My long-term goal is to become a **full-stack developer**, contributing to projects that combine good usability and innovation.
@@ -40,6 +43,11 @@ Currently, I'm:
 - 🎯 Improving skills in **UX/UI Design** and **Prompt Engineering**
 - 📚 Participating in bootcamps and immersions to stay updated
 - 💡 Developing projects that combine **creativity** and **problem-solving**
+
+## ⭐ Starred Topics
+Core technologies I have solid experience with.
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github)
 
 ## ⚡ Interesting facts about me
 
@@ -60,19 +68,24 @@ Currently, I'm:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=rock-paper-scissors-game&theme=omni)](https://github.com/emellybmuniz/rock-paper-scissors-game)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
+
+
 ## ✍️ Recent Activity
+
+🎓 **[ Lições da Minha Jornada como Embaixadora Universitária DIO](https://www.linkedin.com/posts/emellybmuniz_li%C3%A7%C3%B5es-que-aprendi-na-minha-jornada-como-activity-7377343592476020736-4lwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
+*LinkedIn Post* • Professional Network  
+Sharing insights and lessons learned from the DIO Campus Expert program experience.
 
 🔥 **[Learn English with AI: Strategies and Tools to Accelerate Your Fluency](https://medium.com/@emellybmuniz/aprenda-inglês-com-ia-estratégias-e-ferramentas-para-acelerar-sua-fluência-7b6e5a251d3f)**  
 *Medium Article* • Published on Medium  
 Exploring how AI can revolutionize language learning and accelerate English fluency.
 
+
 🚀 **[GitHub Challenge - DIO Project](https://www.linkedin.com/posts/emellybmuniz_github-desafiodio-dio-activity-7374426976012414976-nYEV)**  
 *LinkedIn Post* • Professional Network  
 Sharing my journey and achievements in DIO's GitHub challenge.
 
-💡 **[Learn English with AI - Strategies and Tools](https://web.dio.me/articles/aprenda-ingles-com-ia-estrategias-e-ferramentas-para-acelerar-sua-fluencia-a0c412b37a7c)**  
-*DIO Platform Article* • Tech Education  
-Comprehensive guide on leveraging AI for English language mastery.
 
 ## 🌐 Let's Connect!
 
@@ -107,8 +120,9 @@ Comprehensive guide on leveraging AI for English language mastery.
 > **"Evolving ideas into digital solutions, one line of code at a time."**
 
 <div style="margin: 20px 40px;">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitors&icon=github&color=%23031633&message=&style=flat&tz=localtime" alt="Badge" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Hits+Counter&icon=github&color=%23031633&message=&style=flat&tz=localtime" alt="Badge" />
 </div>
+
 
 
 
