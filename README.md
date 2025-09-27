@@ -104,8 +104,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emellybmuniz&theme=omni&hide_border=true)
 
-## 🧠 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -117,12 +115,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ---
 
-> **"Evolving ideas into digital solutions, one line of code at a time."**
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitors&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
 
-<div style="margin: 20px 40px;">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Hits+Counter&icon=github&color=%23031633&message=&style=flat&tz=localtime" alt="Badge" />
-</div>
-
-
-
-
+> **Crafting tomorrow's solutions, one pixel at a time. 💜** 
