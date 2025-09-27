@@ -70,6 +70,8 @@ Core technologies I have solid experience with.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=portfolio&theme=omni)](https://github.com/emellybmuniz/portfolio)
+
 
 ## ✍️ Recent Activity
 
