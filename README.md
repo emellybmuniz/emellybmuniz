@@ -96,6 +96,7 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emellybmuniz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emelly-beatriz-719989194/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://emellybmuniz.github.io/portfolio/)
+[![DIO](https://img.shields.io/badge/DIO-4A6BE0?style=flat-square&logo=gnometerminal&logoColor=white)](https://web.dio.me/users/emellybmuniz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emellybmuniz@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emellybmuniz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/emellybeatriz/)
