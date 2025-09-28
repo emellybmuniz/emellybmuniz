@@ -119,6 +119,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ---
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitors&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
 
 > **Crafting tomorrow's solutions, one pixel at a time. 💜** 
