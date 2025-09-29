@@ -1,7 +1,7 @@
 # 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-As a developer with a strong focus on user experience, I build intuitive and accessible digital interfaces. I translate complex problems into practical solutions by writing clean and scalable code.
+As a Software Developer with a keen eye for design, I focus on transforming complex ideas into elegant and user-centric digital solutions. My focus is on writing clean, scalable code to build intuitive and accessible interfaces that deliver exceptional user experiences.
 
 ## 💻 Tech Stack
 
@@ -112,9 +112,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emellybmuniz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 
 ## 🔝 Top Contributed Repo
 
@@ -123,5 +120,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 ---
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
+[![wakatime](https://wakatime.com/badge/user/b442b1ec-a683-4fad-af1b-366e51bea51b.svg)](https://wakatime.com/@b442b1ec-a683-4fad-af1b-366e51bea51b)
 
 > **Crafting tomorrow's solutions, one pixel at a time. 💜** 
