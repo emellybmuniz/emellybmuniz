@@ -1,4 +1,4 @@
-# 🚀Hello World!
+# 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
 Software Developer in training, passionate about building intuitive and accessible user interfaces. I transform complex ideas into elegant digital experiences, one line of code at a time.
@@ -21,7 +21,7 @@ Software Developer in training, passionate about building intuitive and accessib
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
-## 📚 Currently Exploring
+## 🔭 Currently Exploring
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,9 +40,9 @@ Software Developer in training, passionate about building intuitive and accessib
 I'm seeking **front-end or back-end internship opportunities** where I can apply my skills and continue learning in the real day-to-day of a programmer. My long-term goal is to become a **full-stack developer**, contributing to projects that combine good usability and innovation.
 
 Currently, I'm:
-- 🔍 Exploring **Java** and preparing to start studying **frameworks and APIs**
+- 🔍 Deepening my Java skills with a focus on **Object-Oriented Programming (OOP)** and **Data Structures**
 - 🎯 Improving skills in **UX/UI Design** and **Prompt Engineering**
-- 📚 Participating in bootcamps and immersions to stay updated
+- 🧩 Solving algorithmic challenges to strengthen my problem-solving skills
 - 💡 Developing projects that combine **creativity** and **problem-solving**
 
 ## ⭐ Starred Topics
@@ -50,14 +50,15 @@ Core technologies I have solid experience with.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github)
 
-## ⚡ Interesting facts about me
+## ⚡ Fun Facts
 
 - 🎯 Self-taught passionate about solving problems
 - 🌱 Always seeking new technologies
 - 🎨 Combining development with design principles
 - 🇧🇷 🇺🇸 🇪🇸 Trilingual (Portuguese native, English professional, Spanish elementary)
-- 📚 Active participant in tech bootcamps and immersions
+- 📚 Continuously learning through tech courses, workshops, and bootcamps.
 - 🧠 Growth mindset with rapid learning abilities
+- 📖 When I'm not coding, you can find me diving into a good book
 
 ## 💼 Open for Opportunities
 
