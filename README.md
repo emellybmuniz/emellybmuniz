@@ -102,6 +102,7 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emellybmuniz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/emellybeatriz/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31414033/emelly-beatriz)
+[![dev.to](https://img.shields.io/badge/dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/emellybmuniz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
 
 ## 📊 GitHub Stats
