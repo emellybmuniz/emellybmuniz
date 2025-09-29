@@ -1,7 +1,7 @@
 # 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-Software Developer in training, passionate about building intuitive and accessible user interfaces. I transform complex ideas into elegant digital experiences, one line of code at a time.
+As a Software Developer with a keen eye for design, I focus on transforming complex ideas into elegant and user-centric digital solutions. My focus is on writing clean, scalable code to build intuitive and accessible interfaces that deliver exceptional user experiences.
 
 ## 💻 Tech Stack
 
