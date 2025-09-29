@@ -1,7 +1,7 @@
 # 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-As a Software Developer with a keen eye for design, I focus on transforming complex ideas into elegant and user-centric digital solutions. My focus is on writing clean, scalable code to build intuitive and accessible interfaces that deliver exceptional user experiences.
+As a developer with a strong focus on user experience, I build intuitive and accessible digital interfaces. I translate complex problems into practical solutions by writing clean and scalable code.
 
 ## 💻 Tech Stack
 
@@ -14,7 +14,7 @@ As a Software Developer with a keen eye for design, I focus on transforming comp
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7e278f?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-1F1F1F?style=for-the-badge&logo=github&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-302f2f?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
@@ -92,15 +92,17 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ## 🌐 Let's Connect!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010712287093)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emellybmuniz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emellybmuniz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emelly-beatriz-719989194/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010712287093)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/emellybmuniz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://emellybmuniz.github.io/portfolio/)
 [![DIO](https://img.shields.io/badge/DIO-4A6BE0?style=flat-square&logo=gnometerminal&logoColor=white)](https://web.dio.me/users/emellybmuniz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emellybmuniz@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emellybmuniz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/emellybeatriz/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31414033/emelly-beatriz)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
 
 ## 📊 GitHub Stats
 
@@ -112,6 +114,7 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emellybmuniz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🔝 Top Contributed Repo
 
