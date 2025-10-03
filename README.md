@@ -42,11 +42,6 @@ const my_journey = [
     focus: "Community Leadership & Engagement"
   },
   {
-    title: "Front-End Developer",
-    context: "Personal and Open Source Projects",
-    stack: ["HTML", "CSS", "JavaScript", "React"]
-  },
-  {
     achievement: "EF SET English Certificate",
     score: "55/100",
     level: "B2 Upper Intermediate",
