@@ -12,7 +12,6 @@ As a Software Developer with a keen eye for design, I bridge the gap between tec
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7e278f?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -29,11 +28,31 @@ As a Software Developer with a keen eye for design, I bridge the gap between tec
 
 ## 🎯 My Journey & Milestones
 
-- **Software Engineering Student** - UNINTER International University Center (2024-2028)
-- **University Ambassador** - DIO (Digital Innovation One)
-- **Front-End Developer** - Personal and Open Source Projects
-- **EF SET English Certificate** 55/100 (B2 Upper Intermediate)
-
+```bash
+const my_journey = [
+  {
+    title: "Software Engineering Student",
+    institution: "UNINTER International University Center",
+    period: "2024 - 2028",
+    status: "In Progress" 
+  },
+  {
+    title: "University Ambassador",
+    organization: "DIO (Digital Innovation One)",
+    focus: "Community Leadership & Engagement"
+  },
+  {
+    title: "Front-End Developer",
+    context: "Personal and Open Source Projects",
+    stack: ["HTML", "CSS", "JavaScript", "React"]
+  },
+  {
+    achievement: "EF SET English Certificate",
+    score: "55/100",
+    level: "B2 Upper Intermediate",
+  }
+];
+```
 
 ## 🎖️ What Motivates Me
 
@@ -105,6 +124,7 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31414033/emelly-beatriz)
 [![dev.to](https://img.shields.io/badge/dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/emellybmuniz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
+
 
 ## 📊 GitHub Stats
 
