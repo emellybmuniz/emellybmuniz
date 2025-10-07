@@ -39,12 +39,13 @@ const my_journey = [
   {
     title: "University Ambassador",
     organization: "DIO (Digital Innovation One)",
-    focus: "Community Leadership & Engagement"
+    focus: "Community Leadership & Engagement",
+    period: "Aug - Sep 2025"
   },
   {
     achievement: "EF SET English Certificate",
     score: "55/100",
-    level: "B2 Upper Intermediate",
+    level: "B2 Upper Intermediate"
   }
 ];
 ```
