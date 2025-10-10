@@ -26,24 +26,24 @@ As a Software Developer with a keen eye for design, I bridge the gap between tec
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🎯 My Journey & Milestones
+## 🎯 Foundations & Achievements
 
 ```bash
 const my_journey = [
   {
-    title: "Software Engineering Student",
+    title: "🎓 B.Sc. in Software Engineering",
     institution: "UNINTER International University Center",
     period: "2024 - 2028",
     status: "In Progress" 
   },
   {
-    title: "University Ambassador",
+    title: "🏆 University Ambassador",
     organization: "DIO (Digital Innovation One)",
     focus: "Community Leadership & Engagement",
     period: "Aug - Sep 2025"
   },
   {
-    achievement: "EF SET English Certificate",
+    achievement: "🌐 EF SET English Certificate",
     score: "55/100",
     level: "B2 Upper Intermediate"
   }
@@ -65,7 +65,7 @@ Core technologies I have solid experience with.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github)
 
-## ⚡ Fun Facts
+## 🧬 Professional DNA
 
 - 🎯 Self-taught passionate about solving problems
 - 🌱 Always seeking new technologies
