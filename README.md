@@ -83,11 +83,13 @@ Core technologies I have solid experience with.
 
 ## 📌 Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=TransactionControlPOO&theme=omni)](https://github.com/emellybmuniz/TransactionControlPOO)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=rock-paper-scissors-game&theme=omni)](https://github.com/emellybmuniz/rock-paper-scissors-game)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=portfolio&theme=omni)](https://github.com/emellybmuniz/portfolio)
+
 
 
 ## ✍️ Recent Activity
