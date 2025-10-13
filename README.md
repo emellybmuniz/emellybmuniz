@@ -28,27 +28,18 @@ As a Software Developer with a keen eye for design, I bridge the gap between tec
 
 ## 🎯 Foundations & Achievements
 
-```bash
-const my_journey = [
-  {
-    title: "🎓 B.Sc. in Software Engineering",
-    institution: "UNINTER International University Center",
-    period: "2024 - 2028",
-    status: "In Progress" 
-  },
-  {
-    title: "🏆 University Ambassador",
-    organization: "DIO (Digital Innovation One)",
-    focus: "Community Leadership & Engagement",
-    period: "Aug - Sep 2025"
-  },
-  {
-    achievement: "🌐 EF SET English Certificate",
-    score: "55/100",
-    level: "B2 Upper Intermediate"
-  }
-];
-```
+### 🎓 Academic Background
+**B.Sc. in Software Engineering**  
+*UNINTER International University Center* | 2024 - 2028 (In Progress)
+
+### 🏆 Leadership & Community
+**University Ambassador**  
+*DIO (Digital Innovation One)* | Aug - Sep 2025  
+Focus: Community Leadership & Engagement
+
+### 🌐 Language Proficiency
+**EF SET English Certificate**  
+Level: B2 Upper Intermediate | Score: 55/100
 
 ## 🎖️ What Motivates Me
 
@@ -139,8 +130,6 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 ![](https://github-contributor-stats.vercel.app/api?username=emellybmuniz&limit=5&theme=omni&combine_all_yearly_contributions=true)
   
 </details>
-
----
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
 [![wakatime](https://wakatime.com/badge/user/b442b1ec-a683-4fad-af1b-366e51bea51b.svg)](https://wakatime.com/@b442b1ec-a683-4fad-af1b-366e51bea51b)
