@@ -125,7 +125,8 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 [![dev.to](https://img.shields.io/badge/dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/emellybmuniz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
 
-## 📊 GitHub Stats
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
 ![Emelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&count_private=true)
 
@@ -133,10 +134,11 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
-
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=emellybmuniz&limit=5&theme=omni&combine_all_yearly_contributions=true)
+  
+</details>
 
 ---
 
