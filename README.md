@@ -3,22 +3,17 @@
 
 As a Software Developer with a keen eye for design, I bridge the gap between technical implementation and user-centric solutions. I focus on writing clean, scalable code to build intuitive and accessible interfaces that effectively solve problems and provide meaningful value.
 
+📍 Rio de Janeiro, Brazil | 💼 Open to Development Internships
+
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7e278f?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Tools & IDEs** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-7e278f?style=for-the-badge&logo=github&logoColor=white) |
+| **Database & Backend** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) |
+| **AI & Development** | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) |
 
 ## 📚 Currently Exploring
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,20 +36,22 @@ Focus: Community Leadership & Engagement
 **EF SET English Certificate**  
 Level: B2 Upper Intermediate | Score: 55/100
 
-## 🎖️ What Motivates Me
+## 🎖️ What Drives Me
 
-I'm seeking **front-end or back-end internship opportunities** where I can apply my skills and continue learning in the real day-to-day of a programmer. My long-term goal is to become a **full-stack developer**, contributing to projects that combine good usability and innovation.
+My objective is clear: become a **full-stack developer** capable of handling complete product development cycles — from system architecture to user-facing features.
 
 Currently, I'm:
-- 🔍 Deepening my Java skills with a focus on **Object-Oriented Programming (OOP)** and **Data Structures**
-- 🎯 Improving skills in **UX/UI Design** and **Prompt Engineering**
-- 🧩 Solving algorithmic challenges to strengthen my problem-solving skills
-- 💡 Developing projects that combine **creativity** and **problem-solving**
+- 🔍 Deepening **Java** skills (**OOP** & **Data Structures**) 
+- 🎨 Improving **UX/UI Design** & **Prompt Engineering**  
+- 🧩 Solving algorithmic challenges daily  
+- 💡 Building projects that merge **creativity** with **problem-solving**
 
-## ⭐ Starred Topics
+
+## ⭐ Strong Skills
 Core technologies I have solid experience with.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github)
+
 
 ## 🧬 Professional DNA
 
@@ -66,11 +63,7 @@ Core technologies I have solid experience with.
 - 🧠 Growth mindset with rapid learning abilities
 - 📖 When I'm not coding, you can find me diving into a good book
 
-## 💼 Open for Opportunities
 
-🔍 **Looking for**: Front-end or Back-end Development Internships  
-📍 **Location**: Rio de Janeiro, RJ - Brazil  
-💌 **Contact**: emellybmuniz@gmail.com  
 
 ## 📌 Featured Projects
 
@@ -100,6 +93,10 @@ Sharing my journey and achievements in DIO's GitHub challenge.
 
 
 ## 🌐 Let's Connect!
+
+I'm always interested in collaborating on projects that challenge me to grow. 
+Whether you're looking for an intern, want to collaborate, or just want to chat 
+about tech and design — let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emellybmuniz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emellybmuniz/)
