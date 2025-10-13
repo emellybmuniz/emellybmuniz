@@ -1,7 +1,7 @@
 # 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
 
-As a Software Developer with a keen eye for design, I bridge the gap between technical implementation and user-centric solutions. I focus on writing clean, scalable code to build intuitive and accessible interfaces that effectively solve problems and provide meaningful value.
+I build digital solutions that balance quality with user experience. My approach combines clean, maintainable code with design thinking to create interfaces that people actually want to use.
 
 📍 Rio de Janeiro, Brazil | 💼 Open to Development Internships
 
