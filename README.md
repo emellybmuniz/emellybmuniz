@@ -44,7 +44,7 @@ Level: B2 Upper Intermediate | Score: 55/100
 My objective is clear: become a **full-stack developer** capable of handling complete product development cycles — from system architecture to user-facing features.
 
 Currently, I'm:
-- 🔍 Deepening my database skills and working on Java integration.
+- 🔍 Deepening my database skills and working on Java integration
 - 🎨 Improving **UX/UI Design** & **Prompt Engineering**  
 - 🧩 Solving algorithmic challenges daily  
 - 💡 Building projects that merge **creativity** with **problem-solving**
