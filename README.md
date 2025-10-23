@@ -81,6 +81,10 @@ Core technologies I have solid experience with.
 
 ## ✍️ Recent Activity
 
+🚨 **[Seus commits estão sabotando seu projeto (e você nem percebeu)](https://www.linkedin.com/posts/emellybmuniz_conven%C3%A7%C3%B5es-para-commits-git-activity-7386380613836161024-2cGV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
+*LinkedIn Post* • Professional Network  
+Highlighting the importance of meaningful commit messages and how adopting Conventional Commits can improve project clarity and team collaboration.
+
 🎓 **[Lições da Minha Jornada como Embaixadora Universitária DIO](https://www.linkedin.com/posts/emellybmuniz_li%C3%A7%C3%B5es-que-aprendi-na-minha-jornada-como-activity-7377343592476020736-4lwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
 *LinkedIn Post* • Professional Network  
 Sharing insights and lessons learned from the DIO Campus Expert program experience.
@@ -88,11 +92,6 @@ Sharing insights and lessons learned from the DIO Campus Expert program experien
 🔥 **[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-inglês-com-ia-estratégias-e-ferramentas-para-acelerar-sua-fluência-7b6e5a251d3f)**  
 *Medium Article* • Published on Medium  
 Exploring how AI can revolutionize language learning and accelerate English fluency.
-
-
-🚀 **[GitHub Challenge - DIO Project](https://www.linkedin.com/posts/emellybmuniz_github-desafiodio-dio-activity-7374426976012414976-nYEV)**  
-*LinkedIn Post* • Professional Network  
-Sharing my journey and achievements in DIO's GitHub challenge.
 
 
 ## 🌐 Let's Connect!
