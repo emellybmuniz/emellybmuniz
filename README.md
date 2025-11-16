@@ -76,21 +76,8 @@ Core technologies I have solid experience with.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
 
 
+## ✍️ My articles and insights
 
-
-## ✍️ Recent Activity
-
-💡 **[Segredos do GitHub que Você Precisa Conhecer](https://www.linkedin.com/posts/emellybmuniz_segredos-do-github-que-voc%C3%AA-precisa-conhecer-activity-7391459311354437632-RMEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**   
-*LinkedIn Post* • Professional Network  
-Sharing hidden features and tips to enhance productivity and mastery on the GitHub platform.
-
-🚨 **[Seus commits estão sabotando seu projeto (e você nem percebeu)](https://www.linkedin.com/posts/emellybmuniz_conven%C3%A7%C3%B5es-para-commits-git-activity-7386380613836161024-2cGV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**   
-*LinkedIn Post* • Professional Network  
-Highlighting the importance of meaningful commit messages and how adopting Conventional Commits can improve project clarity and team collaboration.
-
-🎓 **[Lições da Minha Jornada como Embaixadora Universitária DIO](https://www.linkedin.com/posts/emellybmuniz_li%C3%A7%C3%B5es-que-aprendi-na-minha-jornada-como-activity-7377343592476020736-4lwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC209MUBwL7s4WabjCZQuiwcB9MM1oVKmJk)**  
-*LinkedIn Post* • Professional Network  
-Sharing insights and lessons learned from the DIO Campus Expert program experience.
 
 
 ## 🌐 Let's Connect!
