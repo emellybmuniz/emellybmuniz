@@ -13,11 +13,11 @@ jobs:
 
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       - name: Pull recent blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -25,8 +25,7 @@ jobs:
           max_post_count: 3
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
-
-          template: "**[${title}](${url})**\n*Publicado em ${date}*\n${description}\n\n"
+          template: "**[${title}](${url})**\n\n*Artigo no Medium* • Publicado em ${date}\n\n${description}\n\n"
           date_format: "dd/mm/yyyy"
           title_max_length: "100ch"
           description_max_length: "200ch"
