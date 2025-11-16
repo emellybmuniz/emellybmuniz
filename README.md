@@ -78,8 +78,6 @@ Core technologies I have solid experience with.
 
 ## ✍️ My articles and insights
 
-
-
 ## 🌐 Let's Connect!
 
 I'm always interested in collaborating on projects that challenge me to grow. 
