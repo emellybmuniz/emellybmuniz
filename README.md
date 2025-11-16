@@ -77,9 +77,11 @@ Core technologies I have solid experience with.
 
 
 ## ✍️ My articles and insights
-<!-- BLOG-POST-LIST:START -->**[${title}](${url})**
+<!-- BLOG-POST-LIST:START -->
+**[${title}](${url})**
 *Publicado em ${date}*
-${description}<!-- BLOG-POST-LIST:END -->
+${description}
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Let's Connect!
 
