@@ -25,3 +25,8 @@ jobs:
           max_post_count: 3
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
+
+          template: "**[${title}](${url})**\n*Publicado em ${date}*\n${description}\n\n"
+          date_format: "dd/mm/yyyy"
+          title_max_length: "100ch"
+          description_max_length: "200ch"
