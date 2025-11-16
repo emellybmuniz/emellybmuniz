@@ -26,6 +26,7 @@ jobs:
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
           template: |
+          
             **[$title]($url)**  
             *Artigo no Medium* • Publicado em $date  
 
