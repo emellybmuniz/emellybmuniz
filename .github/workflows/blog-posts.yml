@@ -30,6 +30,6 @@ jobs:
             *Artigo no Medium* • Publicado em $date  
 
             $description
-          date_format: "dd/MM/yyyy"
+          date_format: "dd/m/yyyy"
           title_max_length: "100ch"
           description_max_length: "200ch"
