@@ -26,12 +26,11 @@ jobs:
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
           template: |
-
-          
+            
             **[$title]($url)**  
             *Artigo no Medium* • Publicado em $date  
             $description
             
-          date_format: "dd/m/yyyy"
-          title_max_length: "100ch"
-          description_max_length: "200ch"
+          date_format: "dd/MM/yyyy"
+          title_max_length: "100"
+          description_max_length: "200"
