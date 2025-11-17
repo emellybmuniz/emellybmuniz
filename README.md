@@ -77,9 +77,8 @@ Core technologies I have solid experience with.
 
 
 ## ✍️ My articles and insights
-<!-- BLOG-POST-LIST:START -->
-
-
+<!-- BLOG-POST-LIST:START -->**[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-ingl%C3%AAs-com-ia-estrat%C3%A9gias-e-ferramentas-para-acelerar-sua-flu%C3%AAncia-7b6e5a251d3f?source=rss-99d2bab49d94------2)**  
+*Artigo no Medium* • Publicado em 24/9/2025  
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Let's Connect!
