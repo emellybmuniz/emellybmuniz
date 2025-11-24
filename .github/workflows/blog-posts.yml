@@ -26,3 +26,4 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           template: "- **[$title]($url)** <br> *Artigo no Medium* • Publicado em $date <br> $description"
           date_format: "dd/mm/yyyy"
+          tag_post_pre_newline: true
