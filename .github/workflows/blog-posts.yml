@@ -24,6 +24,6 @@ jobs:
           max_post_count: 3
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- **[$title]($url)** <br> *Artigo no Medium* • Publicado em $date <br> $description"
+          template: "- **[$title]($url)** <br> *Artigo no Medium* • Publicado em $date <br> $description$newline"
           date_format: "dd/mm/yyyy"
           tag_post_pre_newline: true
