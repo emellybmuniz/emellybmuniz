@@ -20,7 +20,7 @@ jobs:
       - name: Pull recent blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@emellybmuniz"
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@emellybmuniz"
           max_post_count: 3
           readme_path: "README.md"
           comment_tag_name: "BLOG-POST-LIST"
