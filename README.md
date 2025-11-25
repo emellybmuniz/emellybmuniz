@@ -79,9 +79,7 @@ Core technologies I have solid experience with.
 
 ## ✍️ My articles and insights 
 <!-- BLOG-POST-LIST:START -->
-- **[O Guia Definitivo dos Fundamentos: O Que Aprender Antes de Escrever sua Primeira Linha de Código](https://medium.com/@emellybmuniz/o-guia-definitivo-dos-fundamentos-o-que-aprender-antes-de-escrever-sua-primeira-linha-de-c%C3%B3digo-3a7cb08df183?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/11/2025 <br> 
 - **[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-ingl%C3%AAs-com-ia-estrat%C3%A9gias-e-ferramentas-para-acelerar-sua-flu%C3%AAncia-7b6e5a251d3f?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/09/2025 <br> 
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Let's Connect!
