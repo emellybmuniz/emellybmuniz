@@ -27,3 +27,4 @@ jobs:
           template: "- **[$title]($url)** <br> *Artigo no Medium* • Publicado em $date <br> $description$newline"
           date_format: "dd/mm/yyyy"
           tag_post_pre_newline: true
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
