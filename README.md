@@ -52,7 +52,7 @@ Currently, I'm:
 ## ⭐ Strong Skills
 Core technologies I have solid experience with.
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)
 
 
 ## 🧬 Professional DNA
