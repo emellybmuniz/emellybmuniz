@@ -1,5 +1,5 @@
 # 🚀 Hello World!
-## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast 👩‍💻✨
+## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
 
 I build digital solutions that balance quality with user experience. My approach combines clean, maintainable code with design thinking to create interfaces that people actually want to use.
 
@@ -22,6 +22,23 @@ I build digital solutions that balance quality with user experience. My approach
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## 🎖️ What Drives Me
+
+My objective is clear: become a **full-stack developer** capable of handling complete product development cycles, from system architecture to user-facing features.
+
+<p><strong>About me:</strong></p>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="25" height="25" /> Self-taught passionate about solving problems 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" /> Always seeking new technologies
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Art" width="25" height="25" /> Combining development with design principles
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="25" height="25" /> Building full-stack applications by integrating projects with databases
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Continuously learning through tech courses, workshops, and bootcamps
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Cultivating knowledge to harvest future innovation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Fueling code and creativity with coffee
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Mind Blown" width="25" height="25" /> Embracing challenges as the catalyst for evolution
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="25" height="25" /> When I'm not coding, you can find me diving into a good book
+
+
 ## 🎯 Foundations & Achievements
 
 ### 🎓 Academic Background
@@ -37,35 +54,11 @@ Focus: Community Leadership & Engagement
 **EF SET English Certificate**  
 Level: B2 Upper Intermediate | Score: 55/100
 
-## 🎖️ What Drives Me
-
-My objective is clear: become a **full-stack developer** capable of handling complete product development cycles — from system architecture to user-facing features.
-
-Currently, I'm:
-- 🔍 Strengthening my programming logic with Python (via the DIO bootcamp).
-- 🛠️ Building full-stack applications by integrating projects with databases.
-- 🎨 Improving **UX/UI Design** & **Prompt Engineering**
-- 💡 Advancing in web development with the "JavaScript and TypeScript: from basic to advanced" (Udemy) course. 
-- 🧩 Solving algorithmic challenges daily  
-
 
 ## ⭐ Strong Skills
 Core technologies I have solid experience with.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)
-
-
-## 🧬 Professional DNA
-
-- 🎯 Self-taught passionate about solving problems
-- 🌱 Always seeking new technologies
-- 🎨 Combining development with design principles
-- 🇧🇷 🇺🇸 🇪🇸 Trilingual (Portuguese native, English professional, Spanish elementary)
-- 📚 Continuously learning through tech courses, workshops, and bootcamps.
-- 🧠 Growth mindset with rapid learning abilities
-- 📖 When I'm not coding, you can find me diving into a good book
-
-
 
 ## 📌 Featured Projects
 
@@ -74,7 +67,6 @@ Core technologies I have solid experience with.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=rock-paper-scissors-game&theme=omni)](https://github.com/emellybmuniz/rock-paper-scissors-game)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
-
 
 ## ✍️ My articles and insights 
 <!-- BLOG-POST-LIST:START -->
@@ -121,4 +113,4 @@ about tech and design — let's connect!
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
 [![wakatime](https://wakatime.com/badge/user/b442b1ec-a683-4fad-af1b-366e51bea51b.svg)](https://wakatime.com/@b442b1ec-a683-4fad-af1b-366e51bea51b)
 
-> **Crafting tomorrow's solutions, one pixel at a time. 💜** 
+> **Crafting tomorrow's solutions, one pixel at a time. 💜**
