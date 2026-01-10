@@ -60,15 +60,48 @@ Core technologies I have solid experience with.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)
 
+
 ## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=TransactionControlPOO&theme=omni)](https://github.com/emellybmuniz/TransactionControlPOO)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Path4Developers</h3>
+      <p><em>Full-Stack Roadmap Platform</em></p>
+      <p>A web platform for organizing developer learning paths. Built with Node.js and MongoDB Atlas for data persistence, featuring user authentication, course management, and progress tracking with a responsive UI.</p>
+      <a href="https://github.com/emellybmuniz/path4developers">
+        <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Nikel: Personal Finance</h3>
+      <p><em>Web Application & UX/UI</em></p>
+      <p>A personal finance web application for tracking income and expenses. Built with HTML, CSS, and JavaScript, using Bootstrap for responsive design and LocalStorage for data persistence. Includes transaction management and balance calculations.</p>
+      <a href="https://github.com/emellybmuniz/nikel">
+        <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ TransactionControlPOO</h3>
+      <p><em>A Java backend application for financial transaction management. Implements OOP principles with proper encapsulation, inheritance, and polymorphism. Includes transaction processing, account management, and data validation using Maven for build management.</p>
+      <a href="https://github.com/emellybmuniz/TransactionControlPOO">
+        <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Playground</h3>
+      <p><em>Logic, Automation & Algorithms</em></p>
+      <p>A collection of Python scripts and algorithms for solving coding problems and practice challenges. Includes automation scripts, data structure implementations, and algorithm solutions for technical problem-solving.</p>
+      <a href="https://github.com/emellybmuniz/python-playground">
+        <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=rock-paper-scissors-game&theme=omni)](https://github.com/emellybmuniz/rock-paper-scissors-game)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emellybmuniz&repo=coursePortfolio&theme=omni)](https://github.com/emellybmuniz/coursePortfolio)
-
-## ✍️ My articles and insights 
+## ✍️ My articles
 <!-- BLOG-POST-LIST:START -->
 - **[O Guia Definitivo dos Fundamentos: O Que Aprender Antes de Escrever sua Primeira Linha de Código](https://medium.com/@emellybmuniz/o-guia-definitivo-dos-fundamentos-o-que-aprender-antes-de-escrever-sua-primeira-linha-de-c%C3%B3digo-3a7cb08df183?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/11/2025 <br>
 - **[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-ingl%C3%AAs-com-ia-estrat%C3%A9gias-e-ferramentas-para-acelerar-sua-flu%C3%AAncia-7b6e5a251d3f?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/09/2025 <br> 
@@ -95,22 +128,12 @@ about tech and design — let's connect!
 [![dev.to](https://img.shields.io/badge/dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/emellybmuniz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
 
-<details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-
-![Emelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emellybmuniz&theme=omni&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emellybmuniz&theme=omni&show_icons=true&hide_border=true&layout=compact)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=emellybmuniz&limit=5&theme=omni&combine_all_yearly_contributions=true)
-  
-</details>
-
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
-[![wakatime](https://wakatime.com/badge/user/b442b1ec-a683-4fad-af1b-366e51bea51b.svg)](https://wakatime.com/@b442b1ec-a683-4fad-af1b-366e51bea51b)
-
 > **Crafting tomorrow's solutions, one pixel at a time. 💜**
+
+<div align="right">
+
+[![wakatime](https://wakatime.com/badge/user/b442b1ec-a683-4fad-af1b-366e51bea51b.svg)](https://wakatime.com/@b442b1ec-a683-4fad-af1b-366e51bea51b)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Femellybmuniz&label=Visitor&icon=github&color=%23e35d6a&message=&style=flat&tz=UTC)
+
+</div>
+
