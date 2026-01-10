@@ -61,7 +61,7 @@ Core technologies I have solid experience with.
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)
 
 
-## 📌 Featured Projects
+## 📌 Featured Repositories 
 
 <table border="0">
   <tr>
@@ -69,7 +69,7 @@ Core technologies I have solid experience with.
       <h3>🗺️ Path4Developers</h3>
       <p><em>Full-Stack Roadmap Platform</em></p>
       <p>A web platform for organizing developer learning paths. Built with Node.js and MongoDB Atlas for data persistence, featuring user authentication, course management, and progress tracking with a responsive UI.</p>
-      <a href="https://github.com/emellybmuniz/path4developers">
+      <a href="https://github.com/emellybmuniz/interactive-roadmap">
         <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
       </a>
     </td>
