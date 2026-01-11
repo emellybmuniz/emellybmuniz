@@ -28,15 +28,17 @@ My objective is clear: become a **full-stack developer** capable of handling com
 
 <p><strong>About me:</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="25" height="25" /> Self-taught passionate about solving problems 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="25" height="25" /> Self-taught passionate about solving complex puzzles
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" /> Always seeking new technologies
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Art" width="25" height="25" /> Combining development with design principles
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="25" height="25" /> Building full-stack applications
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Art" width="25" height="25" /> I love blending development with design principles
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="25" height="25" /> I code best with a 
+Chillhop soundtrack
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Upskilling through bootcamps, technical courses, and workshops
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Cultivating knowledge to harvest future innovation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Sowing questions, reaping solutions
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Fueling code and creativity with coffee
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Mind Blown" width="25" height="25" /> Embracing challenges as evolution
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="25" height="25" /> When I'm not coding, you can find me diving into a good book
+
 
 
 ## 🎯 Foundations & Achievements
@@ -61,22 +63,20 @@ Core technologies I have solid experience with.
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)
 
 
-## 📌 Featured Repositories 
+## 📌 Featured Projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h3>🗺️ Path4Developers</h3>
-      <p><em>Full-Stack Roadmap Platform</em></p>
-      <p>A web platform for organizing developer learning paths. Built with Node.js and MongoDB Atlas for data persistence, featuring user authentication, course management, and progress tracking with a responsive UI.</p>
+      <p>Full-stack roadmap platform for developer career path management. Built with Node.js and MongoDB Atlas for data persistence.</p>
       <a href="https://github.com/emellybmuniz/interactive-roadmap">
         <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Nikel: Personal Finance</h3>
-      <p><em>Web Application & UX/UI</em></p>
-      <p>A personal finance web application for tracking income and expenses. Built with HTML, CSS, and JavaScript, using Bootstrap for responsive design and LocalStorage for data persistence. Includes transaction management and balance calculations.</p>
+      <p>A personal finance web application for tracking income and expenses. Built with HTML, CSS, and JavaScript, using Bootstrap for responsive design and LocalStorage for data persistence.</p>
       <a href="https://github.com/emellybmuniz/nikel">
         <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
       </a>
@@ -85,14 +85,13 @@ Core technologies I have solid experience with.
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ TransactionControlPOO</h3>
-      <p><em>A Java backend application for financial transaction management. Implements OOP principles with proper encapsulation, inheritance, and polymorphism. Includes transaction processing, account management, and data validation using Maven for build management.</p>
+      <p>A Java backend application for financial transaction management. Implements OOP principles with proper encapsulation, inheritance, and polymorphism.</p>
       <a href="https://github.com/emellybmuniz/TransactionControlPOO">
         <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🐍 Python Playground</h3>
-      <p><em>Logic, Automation & Algorithms</em></p>
       <p>A collection of Python scripts and algorithms for solving coding problems and practice challenges. Includes automation scripts, data structure implementations, and algorithm solutions for technical problem-solving.</p>
       <a href="https://github.com/emellybmuniz/python-playground">
         <img src="https://img.shields.io/badge/View_Repository-a425ed?style=for-the-badge" alt="View Repository">
@@ -101,11 +100,23 @@ Core technologies I have solid experience with.
   </tr>
 </table>
 
-## ✍️ My articles
-<!-- BLOG-POST-LIST:START -->
-- **[O Guia Definitivo dos Fundamentos: O Que Aprender Antes de Escrever sua Primeira Linha de Código](https://medium.com/@emellybmuniz/o-guia-definitivo-dos-fundamentos-o-que-aprender-antes-de-escrever-sua-primeira-linha-de-c%C3%B3digo-3a7cb08df183?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/11/2025 <br>
-- **[Aprenda Inglês com IA: Estratégias e Ferramentas para Acelerar sua Fluência](https://medium.com/@emellybmuniz/aprenda-ingl%C3%AAs-com-ia-estrat%C3%A9gias-e-ferramentas-para-acelerar-sua-flu%C3%AAncia-7b6e5a251d3f?source=rss-99d2bab49d94------2)** <br> *Artigo no Medium* • Publicado em 24/09/2025 <br> 
-<!-- BLOG-POST-LIST:END -->
+<details>
+<summary>📂 <b>Discover more projects</b></summary>
+<br>
+
+<table border="0">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🎨 Personal Portfolio</h3>
+      <p>My technical showcase built to share my journey and creations.</p>
+      <a href="https://emellybmuniz.github.io/portfolio/">
+        <img src="https://img.shields.io/badge/Visit_Website-a425ed?style=for-the-badge" alt="Visit Website">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ## 🌐 Let's Connect!
 
