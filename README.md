@@ -1,7 +1,7 @@
 # 🚀 Hello World!
 ## I'm Emelly Beatriz — FrontEnd Developer & UX/UI Enthusiast <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" />
 
-I build digital solutions that balance quality with user experience. My approach combines clean, maintainable code with design thinking to create interfaces that people actually want to use.
+I build Digital Products that translate complexity into intuitive experiences. By combining clean, maintainable code with design thinking, I create interfaces that turn robust engineering into straightforward experiences people actually want to use.
 
 📍 Rio de Janeiro, Brazil | 💼 Open to Development Internships
 
@@ -128,7 +128,7 @@ about tech and design — let's connect!
 [![dev.to](https://img.shields.io/badge/dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/emellybmuniz)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/emellybmuniz)
 
-> **Crafting tomorrow's solutions, one pixel at a time. 💜**
+> The best way to predict the future is to invent it. 💜
 
 <div align="right">
 
